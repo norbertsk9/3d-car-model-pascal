@@ -1,0 +1,17 @@
+# Lazarus/Free Pascal specific
+*.lpi
+*.lps
+*.bak
+*.~*
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.o
+*.ppu
+*.a
+*.dylib
+
+# Lazarus/Free Pascal unit output directory
+lib/
